@@ -19,27 +19,27 @@ To install PyAutoGUI, install the pyautogui package from PyPI and dependencies.
 
 On Windows, this is:
 
- C:\Python34\pip.exe install pyautogui
+  C:\Python34\pip.exe install pyautogui
 
 On OS X, this is:
 
- pip3 install pyobjc-core
+  pip3 install pyobjc-core
 
- pip3 install pyobjc
+  pip3 install pyobjc
 
- pip3 install pyautogui
+  pip3 install pyautogui
 
 On Linux, this is:
 
- pip3 install python3-xlib
+  pip3 install python3-xlib
 
- sudo apt-get install scrot
+  sudo apt-get install scrot
 
- sudo apt-get install python3-tk
+  sudo apt-get install python3-tk
 
- sudo apt-get install python3-dev
+  sudo apt-get install python3-dev
 
- pip3 install pyautogui
+  pip3 install pyautogui
 
 PyAutoGUI will try to install Pillow (for its screenshot capabilities). This happens when pip installs PyAutoGUI.
 All other packages should come pre-installed with python. If not google is always there for rescue.
